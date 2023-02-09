@@ -1,2 +1,2 @@
 # Microbusiness_data
-data for the cappgle competition
+hosted external data for the kaggle competition
